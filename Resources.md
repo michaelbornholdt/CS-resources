@@ -14,3 +14,9 @@ Score: 4 / Level: 3 / PT: Yes / MD: Yes
 http://vision.stanford.edu/teaching/cs231n/
 https://github.com/cs231n
 https://cs231n.github.io/
+
+
+# Todos
+https://github.com/freeCodeCamp/freeCodeCamp
+https://github.com/PizzaPokerGuy/ultimate-coding-resources
+https://github.com/karlhorky/learn-to-program
