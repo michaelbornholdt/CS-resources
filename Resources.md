@@ -20,3 +20,6 @@ https://cs231n.github.io/
 https://github.com/freeCodeCamp/freeCodeCamp
 https://github.com/PizzaPokerGuy/ultimate-coding-resources
 https://github.com/karlhorky/learn-to-program
+
+
+##NLP
