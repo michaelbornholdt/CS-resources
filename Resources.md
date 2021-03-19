@@ -19,3 +19,9 @@ https://cs231n.github.io/
 ### Others
 - 3Blue1Brown. Neural Networks, Gradient descent
 - CGP Grey. How bots learn. fun
+
+
+# Todos
+https://github.com/freeCodeCamp/freeCodeCamp
+https://github.com/PizzaPokerGuy/ultimate-coding-resources
+https://github.com/karlhorky/learn-to-program
