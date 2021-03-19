@@ -22,6 +22,22 @@ Children topics:
 
 # Courses
 
+## Introductions
+
+Non-technical:
+
+### A Gentle Introduction to Computer Vision (Machine Learning Mastery)
+Level: 1 / Programming tasks: No / Mathematical: No
+https://machinelearningmastery.com/what-is-computer-vision/
+
+### An Introductory Guide to Computer Vision (Tryo labs)
+Level: 1 / Programming tasks: No / Mathematical: No
+https://tryolabs.com/resources/introductory-guide-computer-vision/
+
+### A Gentle Introduction to Computer Vision (Machine Learning Mastery)
+Level: 1 / Programming tasks: No / Mathematical: No
+https://machinelearningmastery.com/what-is-computer-vision/
+
 
 ## Full lectures
 ### TUM: Image Processing in Phyiscs
@@ -36,7 +52,9 @@ https://github.com/cs231n
 https://cs231n.github.io/
 
 
-# Papers
+
+
+# Important Papers
 AlexNet (2012)
 https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 
